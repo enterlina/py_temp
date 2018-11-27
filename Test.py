@@ -4,6 +4,7 @@
 # print('x: {:b} y: {:b}'.format(x, y), x)
 # print('x >> 3 : {:b}, %x'.format(x >> 2) , x >> 2)
 # print('x >> 3 : {:b}, %x'.format(x << 2) , x << 2,'%invert', ~x)
+merge
 
 def s(a, *vs, b=10, с=12):
     res = a + b + с
